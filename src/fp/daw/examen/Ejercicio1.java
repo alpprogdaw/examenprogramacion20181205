@@ -13,7 +13,12 @@ public class Ejercicio1 {
 	 * uso de variables booleanas.
 	 */
 	
-	public static ...
+	public static boolean contiene () {
+		
+		int  vector [] = new int [10];
+		return true;
+		
+	}
 	
 	/*
 	 * 0,25 puntos
@@ -24,6 +29,7 @@ public class Ejercicio1 {
 	
 	public static void main(String[] args) {
 		
+		System.out.println(contiene());
 
 	}
 

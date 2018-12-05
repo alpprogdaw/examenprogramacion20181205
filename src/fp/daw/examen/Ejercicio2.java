@@ -11,7 +11,16 @@ public class Ejercicio2 {
 	 * contenga los mismos caracteres que ésta y en el mismo orden. 
 	 */
 	
-	public static ...
+	public static int[] stringToArray () {
+		
+		String cadena = "Juan";
+		
+		int vector [] = new int [10];
+		
+		
+		return vector;
+		
+	}
 	
 	
 	/*
@@ -23,7 +32,7 @@ public class Ejercicio2 {
 	
 	public static void main(String[] args) {
 		
-
+		System.out.println(stringToArray());
 	}
 
 }

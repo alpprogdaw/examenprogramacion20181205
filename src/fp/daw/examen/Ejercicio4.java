@@ -12,7 +12,16 @@ public class Ejercicio4 {
 	 * Finalmente retornará el array.
 	 */
 	
-	public static ...
+	public static int [] arrayAleatorioOrdenado (int  a) {
+		int aleatorio = (int) (Math.random() * 13679);
+		int [] vector = new int[a];
+		
+		System.out.println(a);
+		for (int i=0; i<vector.length;i++) {
+		
+		}
+		return vector;
+	}
 	
 	/*
 	 * 0,25 puntos
